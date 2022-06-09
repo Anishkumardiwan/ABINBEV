@@ -1,0 +1,145 @@
+[
+    {
+        "Name": "MARKET",
+        "Value": [
+            {
+                "country": "South Africa",
+                "shortName": "SA"
+            },
+            {
+                "country": "Mexico",
+                "shortName": "MX"
+            },
+            {
+                "country": "United States America",
+                "shortName": "US"
+            },
+            {
+                "country": "European Union",
+                "shortName": "EU"
+            },
+            {
+                "country": "China",
+                "shortName": "CN"
+            },
+            {
+                "country": "India",
+                "shortName": "IN"
+            },
+            {
+                "country": "Canada",
+                "shortName": "CA"
+            }
+        ]
+    },
+    {
+        "Name": "THEME",
+        "Value": [
+            {
+                "type": "1YP"
+            },
+            {
+                "type": "2YP"
+            }
+        ]
+    },
+    {
+        "Name": "BRAND",
+        "Value": [
+            {
+                "country": "South Africa",
+                "shortName": "SA"
+            },
+            {
+                "country": "Mexico",
+                "shortName": "MX"
+            },
+            {
+                "country": "United States America",
+                "shortName": "US"
+            },
+            {
+                "country": "European Union",
+                "shortName": "EU"
+            },
+            {
+                "country": "China",
+                "shortName": "CN"
+            },
+            {
+                "country": "India",
+                "shortName": "IN"
+            },
+            {
+                "country": "Canada",
+                "shortName": "CA"
+            }
+        ]
+    },
+    {
+        "Name": "CREATED BY",
+        "Value": [
+            {
+                "createdBy": "Randy Culhane"
+            },
+            {
+                "createdBy": "Kianna Dorwart"
+            },
+            {
+                "createdBy": "Jaxson Donin"
+            },
+            {
+                "createdBy": "Zaire Saris"
+            },
+            {
+                "createdBy": "Gretchen Schleifer"
+            },
+            {
+                "createdBy": "Jakob George"
+            },
+            {
+                "createdBy": "Marcus Mango"
+            },
+            {
+                "createdBy": "Desirae Botosh"
+            },
+            {
+                "createdBy": "Alena Rhiel Madsen"
+            },
+            {
+                "createdBy": "Craig Stanton"
+            }
+        ]
+    },
+    {
+        "Name": "YEAR",
+        "Value": [
+            {
+                "year": "2020"
+            },
+            {
+                "year": "2021"
+            },
+            {
+                "year": "2022"
+            }
+        ]
+    },
+    {
+        "Name": "PERIOD",
+        "Value": [
+            {
+                "period": "12 d ago"
+            },
+            {
+                "period": "11 d ago"
+            },
+            {
+                "period": "15 d ago"
+            },
+            {
+                "period": "20 d ago"
+            }
+        ]
+    }
+]
